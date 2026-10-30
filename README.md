@@ -1,2 +1,1 @@
-# hello_world
-setting up git
+code it carefully git add.
